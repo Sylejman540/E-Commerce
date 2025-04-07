@@ -16,3 +16,8 @@
 .banner{
     line-height: 2;
 }
+
+#cart:hover{
+   transform: translateX(2200%);
+   transition-duration: 4s;
+}
